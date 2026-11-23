@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Isaiah Dunlap
+- GitHub username: ksuzaydunlap
+- Project title: Employee Access Request Tracker
+- Application purpose: The purpose of this project is to create a Python application that helps IT administrators organize, track, and manage employee access requests while keeping records saved for future use.
 
 ## How to Run the Application
 
